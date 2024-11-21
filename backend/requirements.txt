@@ -1,0 +1,25 @@
+
+
+# Web Framework
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+
+# File Handling
+python-multipart==0.0.9
+
+# Data Processing
+pandas==2.2.1
+numpy==1.26.4
+
+# Database
+sqlalchemy==2.0.27
+aiosqlite==0.19.0
+
+# WebSocket
+websockets==12.0
+
+# Testing
+pytest==8.0.2
+pytest-asyncio==0.23.5
+httpx==0.27.0
+pytest-cov==4.1.0
